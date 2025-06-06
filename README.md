@@ -1,4 +1,4 @@
-# Voron V2.4 Formbot Kit Building Instructions / Tipps
+# Voron V2.4 Formbot Kit Build Notes / Tipps
 https://www.formbot3d.com/products/voron-24-r2-pro-corexy-3d-printer-kit-with-m8p-cb1-board-and-canbus-wiring-system?VariantsId=10457
 
 ## Building instructions
