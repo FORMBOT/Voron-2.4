@@ -5,7 +5,7 @@ https://www.formbot3d.com/products/voron-24-r2-pro-corexy-3d-printer-kit-with-m8
 Start with the stock Voron 2.4 Manual https://github.com/VoronDesign/Voron-2/tree/Voron2.4/Manual
 Be aware that the v2.4 Manual uses a 250mm Version of the v2, so some dimensions may seem wrong if you build a 300mm/350mm Version.
 
-#### P. 25 v2.4 manual: 
+### P. 25 v2.4 manual: 
 If you build a bigger Version than a 250mm, you need more screws / m3-T-Nuts. Start from the outer holes in the rail and work your way towards the middle screwing the rail down every second hole.
 The carriages are designed to slide along the rail easily. This unfortunately also includes sliding off the rails. Dropping the carriage likely irreparably damages it. ALWAYS put the little black rubber Carriage stoppers back on the rail (into the holes without screws) until your printer ist up and runnning!
 
