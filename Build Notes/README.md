@@ -1,6 +1,6 @@
 
 # Functional parts build notes (to get the Printer up and running)
-Start with the stock Voron 2.4 Manual https://github.com/VoronDesign/Voron-2/tree/Voron2.4/Manual
+Start with the [Stock Voron 2.4 Manual](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/Manual).
 Be aware that the v2.4 Manual uses a 250mm Version of the v2, so some dimensions may seem wrong if you build a 300mm/350mm Version.
 
 ## P. 25 v2.4 manual: 
@@ -28,11 +28,11 @@ After you installed the Z-belts and squared the Gantry, make sure your AB belts 
 Skip these pages. Put the AB belts to the MGN12 Carriage with some tape, they dont have to be tight.
 
 ## P. 143 v2.4 manual: 
-X Carriage: After finishing the AB-Belts Routing, switch to the tap Manual. Optotap is used as the sensor. https://github.com/VoronDesign/Voron-Tap/tree/main/Manual
+X Carriage: After finishing the AB-Belts Routing, switch to the [TAP Manual](https://github.com/VoronDesign/Voron-Tap/tree/main/Manual). Optotap is used as the sensor.
 Be sure to take a look into the R8_errata.md document, it Highlights some important changes from the Manual and install the X Endstop switch.
 
 ## P. 33 Tap Manual: 
-After you have installed Tap successfully and have the AB belts fixed in the tap carriage, switch to page 146 of the Voron 2.4 manual or to https://github.com/VoronDesign/Voron-Stealthburner/tree/main/Manual
+After you have installed Tap successfully and have the AB belts fixed in the tap carriage, switch to page 146 of the Voron 2.4 manual or to the [Stealthburner manual](https://github.com/VoronDesign/Voron-Stealthburner/tree/main/Manual).
 We will come back to install the Toolhead later.
 
 ## P. 13 Stealthburner manual: 
@@ -42,8 +42,8 @@ You use a Toolhead PCB, so install these two heat inserts.
 Skip
 
 ## P. 30 Stealthburner manual: 
-Follow this Video Guide on how to set the gear mesh on your CW2: https://github.com/VoronDesign/Voron-Stealthburner/tree/main/Manual
-Follow this video on how to set the Anti-Squish as well: https://www.youtube.com/watch?v=L1gxBCiE0pk
+Follow [this Video Guide](https://github.com/VoronDesign/Voron-Stealthburner/tree/main/Manual) on how to set the gear mesh on your CW2.
+Follow [this video Guide](https://www.youtube.com/watch?v=L1gxBCiE0pk) on how to set the Anti-Squish as well.
 
 ## P. 31 Stealthburner manual: 
 Skip for now, we will install our Version of the Anchor later.
@@ -64,7 +64,7 @@ Be sure that your fan blows in the right Direction. Look at the arrows on the fa
 You dont need to screw the 5015 fan into the SB Face, you will install the SB0000 Fan PCB there later.
 
 ## P. 58 Stealthburner manual: 
-All parts of the Stealthburner are now pretty much finished. Now you will need to install the Can-Board on there and do some basic wiring. Switch to this manual: https://github.com/bigtreetech/EBB/tree/master/EBB%20SB2209%20CAN%20(RP2040)/Build%20Guide
+All parts of the Stealthburner are now pretty much finished. Now you will need to install the Can-Board on there and do some basic wiring. Switch to the [SB2209 RP2040 Manual](https://github.com/bigtreetech/EBB/tree/master/EBB%20SB2209%20CAN%20(RP2040)/Build%20Guide).
 
 ## P. 02 SB2209 manual: 
 Now you need to screw down the 5015 fan with the SB0000 PCB :)
@@ -104,7 +104,7 @@ Skip; Raspberry Pi mounting and 5v PSU mounting is not needed. Instead, mount th
 Skip; TAP is your Z-Endstop, your X Endstop sits on Tap and your Y endstop will be mounted on the A Motor mount later.
 
 ## P. 165 v2.4 manual: 
-You use the 3in6 Power distributor-
+You use the 3in6 Power Distributor instead.
 
 ## P. 170 v2.4 manual:
 small reminder, you dont use a Raspberry Pi.
