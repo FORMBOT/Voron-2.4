@@ -1,7 +1,7 @@
 # Voron V2.4 Formbot Kit Build Notes / Tipps
 https://www.formbot3d.com/products/voron-24-r2-pro-corexy-3d-printer-kit-with-m8p-cb1-board-and-canbus-wiring-system?VariantsId=10457
 
-## Building instructions
+## Build Notes
 Start with the stock Voron 2.4 Manual https://github.com/VoronDesign/Voron-2/tree/Voron2.4/Manual
 Be aware that the v2.4 Manual uses a 250mm Version of the v2, so some dimensions may seem wrong if you build a 300mm/350mm Version.
 
