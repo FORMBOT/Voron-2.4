@@ -101,5 +101,21 @@ Stealthburner and Tap are now completed and installed. Switch back to p. 148 of 
 ### P. 150-152 v2.4 manual: 
 Skip; Raspberry Pi mounting and 5v PSU mounting is not needed. Instead, mount the CB1 / CM4 on the Manta.
 
+### P.158-164 v2.4 manual:
+Skip; TAP is your Z-Endstop, your X Endstop sits on Tap and your Y endstop will be mounted on the A Motor mount later.
+
+### P. 165 v2.4 manual: 
+You use the 3in6 Power distributor-
+
+### P. 170 v2.4 manual:
+small reminder, you dont use a Raspberry Pi.
+
+### P. 172 v2.4 manual:
+another small reminder, you don't use a 5v PSU.
+
+### P. 175-178 v2.4 manual:
+Skip these steps, instead configure your Manta like this:
+
+
 --- to be continued ---
 
