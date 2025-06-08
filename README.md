@@ -1,7 +1,7 @@
 # Voron V2.4 Formbot Kit Build Notes / Tipps
 https://www.formbot3d.com/products/voron-24-r2-pro-corexy-3d-printer-kit-with-m8p-cb1-board-and-canbus-wiring-system?VariantsId=10457
 
-# For all functional parts (to get the Printer up and running)
+##Functional parts build notes (to get the Printer up and running)
 Start with the stock Voron 2.4 Manual https://github.com/VoronDesign/Voron-2/tree/Voron2.4/Manual
 Be aware that the v2.4 Manual uses a 250mm Version of the v2, so some dimensions may seem wrong if you build a 300mm/350mm Version.
 
@@ -144,7 +144,7 @@ You use a bit different Wire guide where you have to screw in a pg7 cable gland.
 Connect the B motor (left motor) to X Motor, connect the A motor (right motor) to Y Motor.
 Connect the CAN-Cable to the right CAN-Port on the M8P and 24V / GND to the 24V PSU. If you think the cables are not Long enough, you haven't done ![this step](https://github.com/FORMBOT/Voron-2.4/tree/main?tab=readme-ov-file#p-24-sb2209-manual).
 
-# Cosmetic parts & Panels (not needed to get the Printer runnnig)
+## Cosmetic parts build notes (not needed to get the pinter running)
 
 ### P. 206-209 v2.4 manual:
 You can skip these steps.
