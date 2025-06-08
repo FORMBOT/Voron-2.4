@@ -33,3 +33,10 @@ First of all, be sure that your wiring is **100% correct** before you first powe
 	* If your network supports bonjour, the pi should show up as mainsailos.local
 	* If your network automatically assigns DNS hostnames, it may simply show up as mainsailos
 	* Failing these two options, you may need to check your router’s DHCP server, and find out what IP address as been assigned to the device.
+
+## CANBUS Setup
+1. First of all, take a look at the [CANbus basics](https://canbus.esoterical.online).
+2. Now [set up the CANbus Network](https://canbus.esoterical.online/Getting_Started.html).
+3. [Flash your Mainboard](https://canbus.esoterical.online/mainboard_flashing.html). You need to flash it in USB-CAN-Bridge. You can find the needed Mainboard settings / hardware [here](https://canbus.esoterical.online/mainboard_flashing/common_hardware/BigTreeTech%20Manta%20M8P%20v2.0/README.html).
+4.Now [flash your SB2209 RP2040](https://canbus.esoterical.online/toolhead_flashing.html). You can find the needed settings / hardware [here](https://canbus.esoterical.online/toolhead_flashing/common_hardware/BigTreeTech%20SB2209%20(RP2040)/README.html).
+4. Note your UUIDs and note which one is the one of the Mainboard and which belongs to the toolhead.
