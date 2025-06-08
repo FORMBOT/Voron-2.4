@@ -118,5 +118,13 @@ Skip these steps, instead configure your Manta like this:
 ![M8P_v2 Jumper / Driver marking](https://github.com/FORMBOT/Voron-2.4/blob/main/Diagrams/M8P_config.pdf)
 Place a Jumper on all yellow marked pins and place the TMC2209s with attached heatsink on all driver ports with a blue circle after installing the jumpers.
 
+### P. 183 v2.4 manual: 
+Leave the cables to the 5v PSU out.
+
+### P. 184 v2.4 manual:
+The Z-Endstop cables are not needed.
+
+### P. 185 v2.4 manual: 
+Be **100%** sure that the SSR cables are connected correctly, **otherwise your printer is _not_ safe to be powered on**.
 
 --- to be continued ---
