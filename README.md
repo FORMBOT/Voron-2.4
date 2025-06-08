@@ -127,4 +127,24 @@ The Z-Endstop cables are not needed.
 ### P. 185 v2.4 manual: 
 Be **100%** sure that the SSR cables are connected correctly, **otherwise your printer is _not_ safe to be powered on**.
 
+### P. 186-189 v2.4 manual:
+This kit doesn't use Wagos to distribute the High Voltage cables.
+
+### P. 190-193 v2.4 manual: 
+These steps are for an octopus Mainboard. Use this wiring diagram instead: ![v2.4 M8P wiring diagram](https://github.com/FORMBOT/Voron-2.4/blob/main/Diagrams/Wiring%20Diagram%20of%20V2.4%20R2%20Pro%2B.pdf)
+For now, only connect z0-z3, the bed heater, 24V from the 24V PSU and the bed thermistor.
+
+### P. 194-199 v2.4 manual:
+Skip these steps, you use Umbilical on X and Y.
+
+### P. 204 v2.4 manual:
+You use a bit different Wire guide where you have to screw in a pg7 cable gland. From here you route the Can cable down through the z chain, together with the A and B Motor cables. 
+![v2.4 M8P wiring diagram](https://github.com/FORMBOT/Voron-2.4/blob/main/Diagrams/Wiring%20Diagram%20of%20V2.4%20R2%20Pro%2B.pdf) 
+Connect the B motor (left motor) to X Motor, connect the A motor (right motor) to Y Motor.
+Connect the CAN-Cable to the right CAN-Port on the M8P and 24V / GND to the 24V PSU. If you think the cables are not Long enough, you haven't done ![this step](https://github.com/FORMBOT/Voron-2.4/tree/main?tab=readme-ov-file#p-24-sb2209-manual).
+
+
+
+
+
 --- to be continued ---
