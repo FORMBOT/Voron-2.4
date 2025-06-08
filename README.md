@@ -94,6 +94,7 @@ Skip, Stealthburner will be assembled later.
 
 ### P. 24 SB2209 manual: 
 You will need to Strip down the Isolation a bit so you have enough cable length to connect the cable to the PSU and to the Can port. Go back to the Tap Manual page 34 now, flashing the toolhead will be done later.
+Use the tight cable sleeve around the cable.
 
 ### P. 36 Tap manual: 
 Stealthburner and Tap are now completed and installed. Switch back to p. 148 of the original V2.4 manual.
@@ -143,8 +144,19 @@ You use a bit different Wire guide where you have to screw in a pg7 cable gland.
 Connect the B motor (left motor) to X Motor, connect the A motor (right motor) to Y Motor.
 Connect the CAN-Cable to the right CAN-Port on the M8P and 24V / GND to the 24V PSU. If you think the cables are not Long enough, you haven't done ![this step](https://github.com/FORMBOT/Voron-2.4/tree/main?tab=readme-ov-file#p-24-sb2209-manual).
 
+## Cosmetic parts & Panels (not needed to get the Printer runnnig)
 
+### P. 206-209 v2.4 manual:
+You can skip these steps.
 
+### P. 211 & 214-216 & 220-221 v2.4 manual:
+Skip; you don't need these parts because you use the touchscreen.
 
+### P. 231 v2.4 manual:
+Use the ![v2.4 M8P wiring diagram](https://github.com/FORMBOT/Voron-2.4/blob/main/Diagrams/Wiring%20Diagram%20of%20V2.4%20R2%20Pro%2B.pdf) to wire the electronics fans.
 
---- to be continued ---
+### P. 233 v2.4 manual: 
+Don't close the electronics compartment yet, you will need to acces this while flashing the boards.
+
+### P. 256 v2.4 manual:
+Use the big cable sleeve around the exhaust fan cable (if you use the stock exhaust).
