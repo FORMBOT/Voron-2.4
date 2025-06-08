@@ -116,7 +116,7 @@ another small reminder, you don't use a 5v PSU.
 ### P. 175-178 v2.4 manual:
 Skip these steps, instead configure your Manta like this:
 ![M8P_v2 Jumper / Driver marking](https://github.com/FORMBOT/Voron-2.4/blob/main/Diagrams/M8P_config.pdf)
+Place a Jumper on all yellow marked pins and place the TMC2209s with attached heatsink on all driver ports with a blue circle after installing the jumpers.
 
 
 --- to be continued ---
-
