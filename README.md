@@ -5,7 +5,7 @@
 
 * [Build Notes](https://github.com/FORMBOT/Voron-2.4/tree/main/Build%20Notes)
 * [Firmware Flashing](https://github.com/FORMBOT/Voron-2.4/tree/main/Firmware%20Flashing)
-* Config Setup and Initial Startup
+* [Config Setup and Initial Startup](https://github.com/FORMBOT/Voron-2.4/tree/main/Config)
 * Maintenance
 * STLs
 * Printer Tuning
