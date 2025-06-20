@@ -97,6 +97,9 @@ Use the tight cable sleeve around the cable.
 ## P. 36 Tap manual: 
 Stealthburner and Tap are now completed and installed. Switch back to p. 148 of the original V2.4 manual.
 
+## P. 149 v2.4 manual:
+Rotate the din rails 90° compared to the original layout.
+
 ## P. 150-152 v2.4 manual: 
 Skip; Raspberry Pi mounting and 5v PSU mounting is not needed. Instead, mount the CB1 / CM4 on the Manta.
 
