@@ -79,10 +79,13 @@ Skip
 Be sure to wire Gnd to Gnd, Signal to Signal and 24V to 24V! Otherwise you will experience magic smoke later.
 
 ## P. 13 SB2209 manual: 
-Skip, unless you use a PT1000 Thermistor
+You Need to set the switch to 1: on; 2: on; 3: off; 4: on
 
 ## P. 15 SB2209 manual: 
 Skip
+
+## P. 16 SB2209 manual:
+Be sure to use the endstop labeled "To CAN_Endstop" which is the one with the short wires.
 
 ## P. 18 SB2209 manual: 
 Skip
