@@ -7,6 +7,9 @@ Be aware that the v2.4 Manual uses a 250mm Version of the v2, so some dimensions
 If you build a bigger Version than a 250mm, you need more screws / m3-T-Nuts. Start from the outer holes in the rail and work your way towards the middle screwing the rail down every second hole.
 The carriages are designed to slide along the rail easily. This unfortunately also includes sliding off the rails. Dropping the carriage likely irreparably damages it. ALWAYS put the little black rubber Carriage stoppers back on the rail (into the holes without screws) until your printer ist up and runnning!
 
+## P. 29 v2.4 manual:
+The DIN-Rails need to be rotated 90 Degrees so the cables are long enough later. They should run parallel to the bed extrusions (from front to back).
+
 ## P. 84 v2.4 manual: 
 Skip this step, this part is not used and therefore probably not included in your printed parts.
 
