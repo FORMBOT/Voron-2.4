@@ -45,7 +45,7 @@ You use a Toolhead PCB, so install these two heat inserts.
 Skip
 
 ## P. 30 Stealthburner manual: 
-Follow [this Video Guide](https://github.com/VoronDesign/Voron-Stealthburner/tree/main/Manual) on how to set the gear mesh on your CW2.
+Follow [this Video Guide](https://www.youtube.com/watch?v=ly22qmB3NxE&t=1s) on how to set the gear mesh on your CW2.
 Follow [this video Guide](https://www.youtube.com/watch?v=L1gxBCiE0pk) on how to set the Anti-Squish as well.
 
 ## P. 31 Stealthburner manual: 
