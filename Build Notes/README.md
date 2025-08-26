@@ -167,3 +167,6 @@ Don't close the electronics compartment yet, you will need to acces this while f
 
 ## P. 256 v2.4 manual:
 Use the big cable sleeve around the exhaust fan cable (if you use the stock exhaust).
+
+# Don't power on the printer if you are not 100% sure you wired everything correct!
+And have a look into [this](https://github.com/FORMBOT/Voron-2.4/blob/main/Diagrams/Instruction%20of%20V2.4%20R2%20Pro%2B.pdf).
