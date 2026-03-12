@@ -90,6 +90,9 @@ Skip
 ## P. 16 SB2209 manual:
 Be sure to use the endstop labeled "To CAN_Endstop" which is the one with the short wires.
 
+## P. 16 SB2209 manual:
+Don't be alarmed by the difference in the wiring harness. The probe layout on the PCB is GND, 5V, GPIO22, GND, GPIO21. Note the wiring included uses (GND, 5V, GPIO22) for the Voron TAP. The last two (GND, GPIO21) are used for the runout sensor.
+
 ## P. 18 SB2209 manual: 
 Skip
 
