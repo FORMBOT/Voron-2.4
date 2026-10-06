@@ -4,7 +4,7 @@ First of all, be sure that your wiring is **100% correct** before you first powe
 
 ## CB1/CB2 Setup
 *this guide translates 1:1 to BTT Pi v1.1 / v2*
-1. Get the [latest release of the cb1 firmware](https://github.com/bigtreetech/CB1/releases) (for cb2 get the [latest cb2 firmware release](https://github.com/bigtreetech/CB2/releases)). You want to download the XXX...XXX.img.xy file. This may take some time.
+1. Get the [latest release of the cb1 firmware](https://github.com/bigtreetech/CB1/releases) (for cb2 get the [latest cb2 firmware release](https://github.com/bigtreetech/CB2/releases)). You want to download the XXX...XXX.img.xz file. This may take some time.
 2. While you are waiting for the file to download, install the [Raspberry Pi Imager](https://www.raspberrypi.com/software/).
 3. Unpack the firmware so you have a .img file.
 4. Open the Raspberry Pi Imager, click on Choose OS, scroll down to the very end, klick on "Use Custom" and select the .img file you just unpacked.
